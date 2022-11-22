@@ -1,0 +1,55 @@
+
+body
+{
+    background-color: rgb(146, 214, 237);
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: serif;
+    font-weight: 100;
+
+}
+
+h4
+{
+    font-weight: 1000;
+}
+
+#camera
+{
+    height: 300px;
+    width: 500px;
+    border-radius: 10%;
+    border-color: lightgreen;
+}
+
+img
+{
+    width:30%;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: lightcoral;
+    bottom:0;
+    width: 100%;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    line-height: 3;
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
